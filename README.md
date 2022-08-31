@@ -6,4 +6,4 @@ The project is selected as the best Circuit Simulator Project (overall Runner-Up
 ## Overview
 
 ## Running Guide
-Use code <code> ./ </code> to run the repo.
+Use code <code> ./run </code> to run the repo. The output file 
