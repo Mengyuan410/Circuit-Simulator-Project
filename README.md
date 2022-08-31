@@ -3,5 +3,7 @@
 
 The project is selected as the best Circuit Simulator Project (overall Runner-Up Award) among the cohort. 
 
-## Guide
+## Overview
+
+## Running Guide
 Use code <code> ./ </code> to run the repo.
