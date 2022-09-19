@@ -8,4 +8,5 @@ The circuit simulator in the repository written in C++ simulates the basic funct
 
 ## Running Guide
 Use code <code> ./run.sh </code> to run the circuit simulator. You will notice that simdata.txt will be updated by the information of the new circuit.
+
 Then run *plotsim.m* using MATLAB to obtain the magnitude-frequency and phase-frequency graphs.
